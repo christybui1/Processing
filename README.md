@@ -1,4 +1,4 @@
-# Processing
+# Asteroid Attack
 
 Game is called Asteroid Attack
 It is a 10 second shooting game consisting three classes: a player, meteors, and bullets
